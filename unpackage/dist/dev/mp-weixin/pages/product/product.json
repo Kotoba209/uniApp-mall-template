@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "详情展示",
+  "usingComponents": {
+    "share": "/components/share",
+    "stepper": "/components/sunui-stepper/sunui-stepper"
+  }
+}
